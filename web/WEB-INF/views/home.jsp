@@ -5,6 +5,7 @@
     <title>Home</title>
 </head>
 <body>
-<h1>Hello world!</h1>
+    <h1><c:out value="${message}"/></h1>
+    <h2>Again!</h2>
 </body>
 </html>
